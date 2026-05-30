@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NaveenArasan07
+- 👋 Hi, I’m @Naveenarasan
 - 👀 I’m interested in Data science, Machine learning and NLP
 - 🌱 I’m currently learning Deeply Related About Data Science 
 - 💞️ I’m looking to collaborate on ...
